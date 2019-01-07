@@ -47,22 +47,22 @@ body{
     height: 28px;
     font-weight: 600;
     padding: 3px;
+    margin:5px;
 }
 
 #or {
-    
+    text-align: center;
     font-size: 13px;
     font-weight: 600;
-    line-height: 15px;
-    border-top: 1.3px solid #999;
+    line-height: 0.1em;
+    border-bottom: 1.3px solid #efefef;
+    margin: 10px 0 20px;
     max-width: 100%;
 }
 
 #or span {
-    display: block;
     background: white;
-    padding: 10px;
-    transform: translateY(-10px);
+    padding: 0 15px;
 }
 
 .top-text {
